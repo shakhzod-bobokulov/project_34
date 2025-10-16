@@ -12,8 +12,8 @@ Open `index.html` (yoki VS Code **Live Server**).
 - Dark/Light mode
 - “Auto (guess)” — oddiy heuristika (Cyrillic/Arabic/Asian skriptlari)
 
-> Eslatma: MyMemory bepul bo‘lib, sifati va limiti (so‘rov/kun) cheklangan. Kerak bo‘lsa, keyinroq LibreTranslate yoki boshqa self-hosted API qo‘shib beraman.
 
 ## Author
 **Bobokulov Shakhzod**
+
 
